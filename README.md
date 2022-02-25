@@ -46,7 +46,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.instagram.com/oguuiholiv/"><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1645819743~hmac=91cc1809d06971a68864f7c0c2e86661"/></a>
+<a href = "https://www.instagram.com/oguuiholiv/"><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1645819743~hmac=91cc1809d06971a68864f7c0c2e86661" width="48" height="48" /></a>
 
 </p>
 
