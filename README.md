@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Guilherme Oliveira</h1>
 <h3 align="center">Tenho 23 anos, sou cristão, guitarrista/adorador, frequento a igreja Bola de Neve e sou apaixonado pelo Desenvolvimento Front-End.</h3>
 
-## 🚀 Languages and Tools:
+## 🚀 Linguagens e ferramentas:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Conecte-se comigo:
 <p align="left">
 
 <a href = "https://www.instagram.com/oguuiholiv/"><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1645819743~hmac=91cc1809d06971a68864f7c0c2e86661" width="48" height="48" /></a>
