@@ -29,8 +29,11 @@
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/oguuiholiv/oguuiholiv.git"><img alt="oguuiholiv STATS" height="160em" src="https://github-readme-stats.vercel.app/api?username=oguuiholiv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/oguuiholiv/oguuiholiv.git"><img alt="Oguuiholiv Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuiholiv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div align="center">
+  <a href="https://github.com/oguuiholiv">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oguuiholiv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuiholiv&layout=compact&langs_count=7&theme=algolia"/>
+</div>
   <br/>
   <br/>
   <b>Note:</b> As principais linguagens, são apenas uma métrica de publicação de coding, e não trazem consigo o nível de experiencia em cada uma.
