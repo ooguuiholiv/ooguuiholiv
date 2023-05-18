@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"> meu nome é Guilherme Oliveira</h1>
-<h3 align="center">Tenho 23 anos, sou cristão, guitarrista/adorador, frequento a igreja Bola de Neve e sou apaixonado pelo Desenvolvimento Front-End.</h3>
+<h3 align="center">Tenho 24 anos, sou cristão, guitarrista/adorador, frequento a igreja Bola de Neve e sou apaixonado pelo Desenvolvimento Front-End. Ultimamente tenho estudado muito sobre o Back-End, espero um dia ter conhecimento suficiente para me auto proclamar Desenvolvedor Full-Stack.</h3>
 
 ## 🚀 Linguagens e ferramentas:
 
