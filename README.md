@@ -1,6 +1,9 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"> meu nome é Guilherme Oliveira</h1>
 <h3 align="center">Tenho 24 anos, sou cristão, guitarrista/adorador, frequento a igreja Bola de Neve e sou apaixonado pelo Desenvolvimento Front-End. Ultimamente tenho estudado muito sobre o Back-End, espero um dia ter conhecimento suficiente para me auto proclamar Desenvolvedor Full-Stack.</h3>
 
+## Meu portfólio
+<a href="https://oguuiholiv.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+
 ## 🚀 Linguagens e ferramentas:
 
 <p align="left"> 
@@ -50,7 +53,7 @@
 ## Conecte-se comigo:
 <p align="left">
 
-<a href = "https://www.instagram.com/oguuiholiv/"><img src="https://img.icons8.com/dotty/48/000000/instagram-new.png" width="48" height="48" /></a>
+<a href = "https://www.instagram.com/ooguuiholiv/"><img src="https://img.icons8.com/dotty/48/000000/instagram-new.png" width="48" height="48" /></a>
 
 </p>
 
