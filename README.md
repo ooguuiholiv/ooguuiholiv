@@ -1,25 +1,29 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"> meu nome é Guilherme Oliveira</h1>
-<h3 align="center">Tenho 24 anos, sou cristão, guitarrista/adorador, frequento a igreja Bola de Neve e sou apaixonado pelo Desenvolvimento Front-End. Ultimamente tenho estudado muito sobre o Back-End, espero um dia ter conhecimento suficiente para me auto proclamar Desenvolvedor Full-Stack.</h3>
+<h1 align="center">Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"></h1>
+<h3 align="center">My name is Olive, William (Guilherme Oliveira), I'm 24 years old and I'm a fullstack developer with JavaScript / TypeScript</h3>
 
-## Meu portfólio
-<a href="https://oguuiholiv.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+## Portfolio
+<a href="https://portfolio.oguuiholiv.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
-## 🚀 Linguagens e ferramentas:
-
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com.br/docs/4.1/getting-started/download/" target="_blank" <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
-    <a href="https://pt-br.reactjs.org" targer="_blank"> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v2.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-   <a align="center"href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/> </a>
-   <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
-   
-   
-</p>
+## 🚀 Languages and tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
@@ -39,22 +43,19 @@
 </div>
   <br/>
   <br/>
-  <b>Note:</b> As principais linguagens, são apenas uma métrica de publicação de coding, e não trazem consigo o nível de experiencia em cada uma.
+  <b>Note:</b> The top programming languages ​​are just a coding publication metric and don't carry with them the level of experience in each.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/oguuiholiv/oguuiholiv.git"><img alt="oguuiholiv graph" src="https://activity-graph.herokuapp.com/graph?username=oguuiholiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
-## Conecte-se comigo:
+## Connect with me:
 <p align="left">
-
-<a href = "https://www.instagram.com/ooguuiholiv/"><img src="https://img.icons8.com/dotty/48/000000/instagram-new.png" width="48" height="48" /></a>
-
+    <a href = "https://www.instagram.com/ooguuiholiv/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="auto" height="auto" /></a>
+    <a href = "https://www.linkedin.com/in/oguuiholiv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" width="auto" height="auto" /></a>
 </p>
 
 ![Snake animation](https://github.com/oguuiholiv/oguuiholiv/blob/output/github-contribution-grid-snake.svg)
