@@ -44,8 +44,7 @@
   <br/>
   <br/>
   <b>Note:</b> The top programming languages ​​are just a coding publication metric and don't carry with them the level of experience in each.
-
-
+    
 <br/>
 <br/>
 
@@ -58,5 +57,5 @@
     <a href = "https://www.linkedin.com/in/oguuiholiv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" width="auto" height="auto" /></a>
 </p>
 
-![Snake animation](https://github.com/oguuiholiv/oguuiholiv/blob/output/github-contribution-grid-snake.svg)
+
 
