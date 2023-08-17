@@ -33,20 +33,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-<div align="center">
-  <a href="https://github.com/oguuiholiv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oguuiholiv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuiholiv&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  <br/>
-  <br/>
-  <b>Note:</b> The top programming languages ​​are just a coding publication metric and don't carry with them the level of experience in each.
-    
-<br/>
-<br/>
 
 <br/>
 <br/>
