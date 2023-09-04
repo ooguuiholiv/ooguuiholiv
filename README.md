@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="auto"></h1>
-<h3 align="center">My name is Olive, William (Guilherme Oliveira), I'm 24 years old and I'm a fullstack developer with JavaScript / TypeScript</h3>
+<h3 align="center">I'm William Olive, a master in the language of machines and an artist on the strings of a guitar. My code is an expression of my creativity, and my music is an extension of my soul. As a full-stack developer, I blend technical precision with artistic passion to create unique experiences. If you're looking for a partner who turns ideas into reality, I'm here to make it happen.</h3>
 
 ## Portfolio
 <a href="https://portfolio.oguuiholiv.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
