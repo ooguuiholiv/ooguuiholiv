@@ -2,7 +2,7 @@
 <h3 align="center">I'm William Olive, a master in the language of machines and an artist on the strings of a guitar. My code is an expression of my creativity, and my music is an extension of my soul. As a full-stack developer, I blend technical precision with artistic passion to create unique experiences. If you're looking for a partner who turns ideas into reality, I'm here to make it happen.</h3>
 
 ## Portfolio
-<a href="portfolio-next-js-jade.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://portfolio-next-js-jade.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 ## 🚀 Languages and tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
