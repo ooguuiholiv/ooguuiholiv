@@ -27,9 +27,29 @@
 
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ooguuiholiv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooguuiholiv&layout=donut&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
+
 <p align="center">
-    <a href="https://github.com/oguuiholiv/oguuiholiv.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="oguuiholiv" src="https://github-readme-streak-stats.herokuapp.com/?user=oguuiholiv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ooguuiholiv/ooguuiholiv.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="oguuiholiv" src="https://github-readme-streak-stats.herokuapp.com/?user=ooguuiholiv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
