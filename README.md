@@ -65,15 +65,22 @@ Conheça os sistemas e serviços no **[meu portfólio](https://francosys.com.br/
 ## Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ooguuiholiv&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark" alt="Estatísticas do GitHub" />
+<img src="./profile/stats.svg" alt="Estatísticas do GitHub" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooguuiholiv&amp;layout=compact&amp;langs_count=8&amp;theme=dark" alt="Linguagens mais usadas" />
+<img src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
 <br>
-<img src="https://streak-stats.demolab.com/?user=ooguuiholiv&amp;theme=radical" alt="Sequência de contribuições" />
+<img src="./profile/streak.svg" alt="Sequência de contribuições" />
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=ooguuiholiv&amp;theme=darkhub&amp;column=5" alt="Troféus do GitHub" />
+<img src="./profile/trophy.svg" alt="Troféus do GitHub" />
 <br>
 </div>
+
+## Contribuições
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+<img alt="Animação das minhas contribuições" src="./profile/snake.svg" />
+</picture>
 
 ---
 
