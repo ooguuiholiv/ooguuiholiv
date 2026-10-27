@@ -1,0 +1,86 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Every day at 03:00 UTC
+  push:
+    paths:
+      - '.github/workflows/profile-cards.yml'
+      - '.github/scripts/**'
+      - '.github/profile-about.md'
+  workflow_dispatch:
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+env:
+  PROFILE_USERNAME: ooguuiholiv
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # README_STATS_TOKEN: optional PAT (repo + read:user) to count private commits.
+      # Falls back to GITHUB_TOKEN, which only sees public data.
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: username=${{ env.PROFILE_USERNAME }}&show_icons=true&include_all_commits=true&theme=dark
+          path: profile/stats.svg
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: username=${{ env.PROFILE_USERNAME }}&layout=compact&langs_count=8&theme=dark
+          path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@70dd50f921097927dc8314ac33a04b010a09924d # main (2026-09-14)
+        with:
+          options: user=${{ env.PROFILE_USERNAME }}&theme=radical&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master (2026-07-25)
+        with:
+          username: ${{ env.PROFILE_USERNAME }}
+          output_path: profile/trophy.svg
+          theme: darkhub
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Wrap trophies into two rows
+        run: python3 .github/scripts/wrap-trophies.py profile/trophy.svg
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ env.PROFILE_USERNAME }}
+          outputs: |
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
+
+      - name: Sync public profile information
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/sync-profile.py
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md profile/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update profile information and cards"
+          git pull --rebase
+          git push
